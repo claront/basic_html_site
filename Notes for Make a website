@@ -14,5 +14,11 @@ Draw wireframes
 
 for phones, tablets and desktop
 
+Responsive Web Design
+uses three technics
+1. Create fluid images.  Use percentages in the css
+2. Create a fluid grid.
+3. A media query, based on the width of the page
+
 
 
